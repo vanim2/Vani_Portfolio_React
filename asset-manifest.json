@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vani_Portfolio_React/static/css/main.06e9aba4.css",
-    "main.js": "/Vani_Portfolio_React/static/js/main.8fa3ef41.js",
+    "main.js": "/Vani_Portfolio_React/static/js/main.faecd0b4.js",
     "static/js/787.a1e771c9.chunk.js": "/Vani_Portfolio_React/static/js/787.a1e771c9.chunk.js",
     "static/media/image2.jpg": "/Vani_Portfolio_React/static/media/image2.4f9343736c5e068f6012.jpg",
     "static/media/project5.png": "/Vani_Portfolio_React/static/media/project5.bd69469a740c83d87cd0.png",
@@ -16,11 +16,11 @@
     "static/media/about2.jpg": "/Vani_Portfolio_React/static/media/about2.da98a991e88c88474422.jpg",
     "index.html": "/Vani_Portfolio_React/index.html",
     "main.06e9aba4.css.map": "/Vani_Portfolio_React/static/css/main.06e9aba4.css.map",
-    "main.8fa3ef41.js.map": "/Vani_Portfolio_React/static/js/main.8fa3ef41.js.map",
+    "main.faecd0b4.js.map": "/Vani_Portfolio_React/static/js/main.faecd0b4.js.map",
     "787.a1e771c9.chunk.js.map": "/Vani_Portfolio_React/static/js/787.a1e771c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06e9aba4.css",
-    "static/js/main.8fa3ef41.js"
+    "static/js/main.faecd0b4.js"
   ]
 }
